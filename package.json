@@ -46,8 +46,11 @@
     "@storybook/addon-actions": "^6.1.17",
     "@storybook/addon-essentials": "^6.1.17",
     "@storybook/addon-links": "^6.1.17",
+    "@storybook/addon-storyshots": "^6.1.17",
+    "@storybook/addon-storyshots-puppeteer": "^6.1.17",
     "@storybook/node-logger": "^6.1.17",
     "@storybook/preset-create-react-app": "^3.1.5",
-    "@storybook/react": "^6.1.17"
+    "@storybook/react": "^6.1.17",
+    "puppeteer": "^7.0.1"
   }
 }
