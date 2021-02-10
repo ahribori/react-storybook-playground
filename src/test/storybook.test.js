@@ -16,6 +16,7 @@ initStoryshots({
     // your own configuration
     test: imageSnapshot({
         // invoke the function above here
+        storybookUrl: 'file://' + path.resolve('storybook-static'),
         getMatchOptions
     })
-}); 
+});
